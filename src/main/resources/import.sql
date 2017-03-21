@@ -1,0 +1,11 @@
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(1,"Rural");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(2,"Urbano");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(3,"Costa");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(4,"Selva");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(5,"Ciudad");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(6,"Montaña");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(7,"Caliente");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(8,"Fria");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(9,"Tropical");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(10,"Antartida");
+INSERT INTO TONT_ZONAS (cdzona, dsnombre) VALUES(11,"Antartica");
